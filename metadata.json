@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Bot Trader & Orderflow Analyzer",
+  "description": "An institutional-grade crypto bot trader simulator featuring 24/7 automation, Kraken/Binance/Bybit/HTX integration, real-time Orderflow Nanoscope anomaly analysis, technical indicators, VPIN, and dynamic interactive 3D trade projection curves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
